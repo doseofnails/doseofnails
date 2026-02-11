@@ -52,17 +52,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
 			emailjs
 				.sendForm(serviceID, templateID, this)
-				.then(function () {
-					// Success!
-					alert(
-						currentLanguage === "en"
-							? "✅ Thank you! We will contact you within 24 hours."
-							: "✅ Terima kasih! Kami akan menghubungi Anda dalam 24 jam.",
-					);
-
-					// Reset form
-					bookingForm.reset();
-				})
+				.then(
+					(response) => {
+						console.log("SUCCESS", response.status, response.text);
+						bookingForm.reset();
+					},
+					(error) => {
+						console.log("FAILED", error);
+					},
+				)
 				.catch(function (error) {
 					// Error
 					console.error("EmailJS Error:", error);
