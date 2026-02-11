@@ -10,7 +10,7 @@ const translations = {
     
     // Hero
     "hero.title": "Your Daily dose of Nails",
-    "hero.description": "Experience the art of luxury nail care in a chic and relaxing environment. From classic manicures to stunning nail art, we're here to perfect your tips.",
+    "hero.description": "blabla.",
     "hero.bookAppointment": "Book Appointment",
     "hero.viewServices": "View Services",
     
