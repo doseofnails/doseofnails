@@ -249,81 +249,166 @@ const translations = {
 		"nav.bookNow": "Buat Pertemuan",
 
 		// Hero
-		"hero.title": "Glowup dimulai dari ujung jari kamu <3",
+		"hero.title": "Siap tampil makin bersinar? Yuk, mulai!",
 		"hero.description":
-			"Waktunya manjain diri! Di sini, kamu bisa dapetin kuku cantik dengan sentuhan elegan dan suasana yang nyaman banget. Mau yang classy atau cute? Semua bisa!",
-		"hero.bookAppointment": "Book Sekarang",
-		"hero.viewServices": "Cek semua Layanan",
+			"Butuh waktu sejenak buat merawat diri?\
+			Kami hadir untuk mewujudkan kuku\
+			impianmu. Dari desain yang simpel dan\
+			elegan, hingga nail art yang seru dan kreatif.\
+			Dose of Nails adalah pilihan yang tepat buat\
+			kamu yang ingin tampil fresh dan pulang\
+			dengan kuku yang bikin kamu jatuh cinta.",
+		"hero.bookAppointment": "Jadwalkan kunjunganmu",
+		"hero.viewServices": "Lihat Layanan Kami",
 
 		// Introduction
 		"intro.heading": "Selamat Datang di Dose of Nails",
 		"intro.description":
-			"Masuk ke home-studio nail art kami di mana kreativitas bertemu dengan presisi. Di Dose of Nails, kami menggabungkan kreativitas dan ketelitian untuk menciptakan tampilan kuku yang benar-benar kamu banget, Mau yang simple & elegan atau bold & eye-catching? Tenang, kami siap wujudkan.",
+			"Kami bukan sekedar nail studio. Kami\
+			adalah pilihan yang tepat buat kamu yang\
+			ingin melepas penat memanjakan diri, dan\
+			mengekspresikan gayamu. Mau manikur\
+			simpel atau nail art yang detail, kami\
+			dengan senang hati siap membantu kamu\
+			tampil percaya diri dan bahagia. Santai saja,\
+			rileks, biar kami yang mengurus sisanya.\
+			",
 
 		// Highlights
-		"highlights.title": "Apa yang bisa kamu nikmati disini",
-		"highlights.nailArt.title": "Layanan Nail Art",
+		"highlights.title": "Layanan kami",
+		"highlights.nailArt.title": "Nail Art",
 		"highlights.nailArt.description":
-			"Tunjukkan gaya unik kamu lewat desain nail art yang super personal! Dari yang minimal sampai full detail, kami siap bikin kuku kamu jadi statement.",
+			"Kukumu, gayamu. Mulai dari tampilan yang\
+			simple dan elegan hingga desain yang\
+			trendi dan mencuri perhatian, kami\
+			menciptakan nail art membuatmu tampil\
+			makin percaya diri dan bebas\
+			mengekspresikan diri dan bebas\
+			mengekspresikan dirimu.",
 		"highlights.nailArt.button": "Cek Hasil Nail Art",
-		"highlights.pressOn.title": "Kuku Press On",
+		"highlights.pressOn.title": "Press-On Nails",
 		"highlights.pressOn.description":
-			"Butuh kuku cantik instan? Koleksi press on kami siap jadi solusi! Praktis, stylish, dan tetap terlihat seperti hasil salon.",
+			"Siapa yang nggak suka punya kuku cantik?\
+			Press-on nails buatan tangan kami hadir\
+			untuk memberikan tampilan layaknya hasil\
+			perawatan salon hanya dalam hitungan\
+			menit. Cocok untuk hari-hari yang padat,\
+			acara spesial, atau kapan pun kamu ingin\
+			tampil lebih menawan dalam sekejap.\
+			Setiap paket press-on nails kami sudah\
+			dilengkapi dengan cuticle pusher, nail\
+			buffer, alcohol swab, dan glue gel.",
 		"highlights.pressOn.button": "Beli Press Ons",
 
 		// About Us
 		"about.title": "Tentang Kami",
-		"about.background.title": "Cerita Kami",
+		"about.background.title": "Kisah Kami",
 		"about.background.description":
-			"Dose of Nails lahir dari kecintaan kami terhadap dunia nail art dan keinginan untuk bikin semua orang bisa punya kuku cantik dengan mudah, Kami percaya, kuku bukan cuma soal penampilan—tapi juga cara kamu mengekspresikan diri. Karena itu, setiap layanan kami dibuat senyaman mungkin, personal, dan pastinya disesuaikan dengan gaya kamu",
-		"about.values.title": "Kenapa kamu bakal lebih suka disini",
-		"about.values.homeService": "Home Service",
+			"Dose of Nails berawal dari kecintaan\
+			sederhana terhadap kreativitas dan\
+			ekspresi diri. Berawal dari sebuah hobi,\
+			kami tumbuh menjadi sebuah brand yang\
+			mengutamakan kenyamanan, perhatian\
+			pada setiap detail, dan gaya yang personal.\
+			Kami percaya setiap orang berhak\
+			mendapatkan sedikit tambahan\
+			kepercayaan diri dan kebahagiaan dalam\
+			kesehariannya karena kuku yang indah\
+			dapat mencerahkan hari dan membantu\
+			kamu mengekspresikan dirimu. Kini, Dose\
+			of Nails bukan sekadar nail studio,\
+			melainkan ruang yang hangat di mana\
+			setiap klien diperlakukan seperti teman.\
+			Bagi kamu yang mempersiapkan diri untuk\
+			acara spesial maupun sekadar meluangkan\
+			waktu untuk memanjakan diri, kami\
+			berkomitmen untuk membuat setiap\
+			kunjungan terasa nyaman, menyenangkan,\
+			dan berkesan.",
+		"about.values.title": "Kenapa kamu bakal menyukai Dose of Nails!",
+		"about.values.homeService": "Layanan di rumah",
 		"about.values.homeServiceDesc":
-			"Mager keluar? Tenang, kami datang ke kamu! Nikmati perawatan kuku profesional langsung dari rumah dengan nyaman.",
+			"Lagi malas keluar rumah? Tenang, kami\
+			yang datang ke tempatmu! Nikmati\
+			perawatan kuku profesional dengan\
+			nyaman, langsung dari rumahmu.",
 		"about.values.creativity": "Kreativitas",
 		"about.values.creativityDesc":
-			"Setiap kuku adalah kanvas! Kami siap bantu wujudkan ide kamu jadi nail art yang unik dan stand out.",
-		"about.values.hygiene": "Higiene",
+			"Setiap kuku adalah kanvas. Kami siap untuk\
+			mewujudkan ide nail art-mu menjadi design\
+			yang unik dan mencuri perhatian.",
+		"about.values.hygiene": "Higienis",
 		"about.values.hygieneDesc":
-			"Kebersihan itu wajib. Semua alat dan proses kami dijaga dengan standar tinggi supaya kamu tetap aman dan nyaman.",
+			"Keamanan dan kenyamanan adalah\
+			prioritas kami. Kami selalu menjaga standar\
+			kebersihan dan sanitasi yang tinggi dalam\
+			setiap perawatan.",
 		"about.values.professional": "Profesional",
 		"about.values.professionalDesc":
-			"Ditangani oleh nail artist berpengalaman yang detail-oriented, jadi hasilnya bukan cuma cantik tapi juga rapi dan tahan lama.",
+			"Tim kami berdedikasi untuk memberikan\
+			layanan berkualitas dengan ketelitian,\
+			kenyamanan, pengalaman dan perhatian\
+			penuh terhadap detail.",
 		"about.mission.title": "Misi Kami",
 		"about.mission.statement":
-			"Misi kami adalah menghadirkan pengalaman perawatan kuku yang elegan, personal, dan berkualitas tinggi. Setiap detail kami perhatikan untuk memastikan kamu mendapatkan hasil yang indah, nyaman, dan berkelas.",
+			"Di Dose of Nails, misi kami adalah\
+			menjadikan self-care sebagai suatu\
+			pengalaman yang menyenangkan, mudah\
+			diakses, dan terasa personal untuk semua\
+			orang. Kami berdedikasi untuk menciptakan\
+			kuku cantik yang mencerminkan gaya unik\
+			kamu, sekaligus menghadirkan layanan\
+			home service yang praktis dengan nail\
+			artists yang ramah, agar kamu selalu\
+			merasa nyaman menjadi diri sendiri.",
 
 		// Services & Products
 		"serviceProduct.title": "Layanan & Produk",
 		"serviceProduct.servicesTab": "Layanan",
 		"serviceProduct.productsTab": "Produk",
-		"serviceProduct.services.title": "Pilih treatment yang kamu butuhkan",
-		"serviceProduct.services.manicure.title": "Manicure",
+		"serviceProduct.services.title": "Layanan Kami",
+		"serviceProduct.services.manicure.title": "Manikur",
 		"serviceProduct.services.manicure.description":
-			"Perawatan kuku basic yang bikin tangan kamu langsung terlihat lebih rapi, bersih, dan fresh. Mulai dari shaping, cuticle care, sampai finishing yang halus dan cantik.",
-		"serviceProduct.services.manicure.price": "Mulai dari Rp 35.000",
-		"serviceProduct.services.gelArt.title": "Nail Art Gel",
+			"Perawatan kuku dasar yang membuat\
+			tanganmu terlihat lebih bersih, rapi, dan\
+			terawat. Perawatan ini termasuk\
+			pembentukan kuku, perawatan kutikula,\
+			dan hasil akhir yang cantik.",
+		"serviceProduct.services.manicure.price": "Mulai dari IDR. 35,000",
+		"serviceProduct.services.gelArt.title": "Gel Polish",
 		"serviceProduct.services.gelArt.description":
-			"Tampilkan gaya unik kamu lewat nail art gel yang tahan lama dan super detail. Dari desain minimal sampai yang artsy, semua bisa disesuaikan dengan vibe kamu.",
-		"serviceProduct.services.gelArt.price": "Mulai dari Rp 70.000",
+			"Ekspresikan gaya unik kamu dengan gel\
+			polish yang tahan lama. Mulai dari warna\
+			polos hingga nail art dengan detail yang\
+			memukau, setiap desain bisa disesuaikan\
+			dengan keinginanmu.",
+		"serviceProduct.services.gelArt.price": "Mulai dari Rp70.000",
 		"serviceProduct.services.3dDesign.title": "Soft Gel Tip Extension",
 		"serviceProduct.services.3dDesign.description":
-			"Ingin kuku lebih panjang dan bentuk yang flawless? Soft gel tip adalah pilihan perfect buat kamu.",
-		"serviceProduct.services.3dDesign.price": "Mulai dari Rp 120.000",
+			"Mau kuku lebih panjang dengan bentuk\
+			yang sempurna? Soft gel tips adalah pilihan\
+			yang tepat untuk tampilan kuku yang\
+			natural namun tetap elegan.",
+		"serviceProduct.services.3dDesign.price": "Mulai dari IDR. 120,000",
 		"serviceProduct.products.title": "Produk Kami",
 		"serviceProduct.products.pressOn.title": "Kuku Press-on",
 		"serviceProduct.products.pressOn.description":
-			"Kuku cantik tanpa ribet! Tinggal pakai, langsung terlihat seperti habis dari salon. kuku yang dapat kamu pasang di rumah dalam hitungan menit.",
-		"serviceProduct.products.pressOn.price": "Mulai dari Rp 60.000",
+			"Kuku cantik tanpa ribet! Cukup pasang, dan\
+			dalam hitungan menit kamu bisa\
+			mendapatkan tampilan kuku layaknya baru\
+			selesai dari salon. Mudah digunakan di\
+			rumah dan siap dipakai kapan saja.",
+		"serviceProduct.products.pressOn.price": "Mulai dari IDR. 60,000",
 
 		// Gallery
 		"gallery.title": "Galeri Kami",
 		"gallery.subtitle":
-			"Lihat hasil karya nail art kami yang siap bikin kamu jatuh cinta",
+			"Jelajahi koleksi nail art terbaru kami dan\
+			temukan desain yang siap bikin kamu jatuh hati.",
 		"gallery.filter.all": "Semua",
-		"gallery.filter.basic": "Basic",
-		"gallery.filter.moderate": "Moderate",
-		"gallery.filter.advanced": "Advanced",
+		"gallery.filter.basic": "Simpel",
+		"gallery.filter.moderate": "Standar",
+		"gallery.filter.advanced": "Premium",
 		"gallery.caption.basic1": "Garis bersih, elegan tanpa ribet",
 		"gallery.caption.basic2": "Simpel, rapi, dan cantik",
 		"gallery.caption.basic3": "Kuku timeless untuk sehari-hari",
@@ -335,44 +420,69 @@ const translations = {
 		"gallery.caption.advanced3": "Nail art detail di level tertinggi",
 
 		// Team
-		"team.title": "Kenali Tim Kami",
+		"team.title": "Tim Kami",
 		"team.description":
-			"Dengan sentuhan detail dan kreativitas, kami siap kasih pengalaman yang nyaman sekaligus hasil yang bikin kamu jatuh cinta!",
+			"Kenalan dengan tim kami",
 		"team.fadhilah.name": "Fadhilah",
-		"team.fadhilah.role": "Senior Nail Artist",
+		"team.fadhilah.role": "Senior Artis Kuku",
 		"team.fadhilah.bio":
-			"Fadhilah punya passion yang besar banget di dunia nail art, terutama desain 3D yang detail dan unik. Dengan mata seni yang tajam dan rasa cinta yang tulus terhadap kreativitas, Fadhilah siap bantu wujudkan kuku impian kamu dengan teliti dan penuh perhatian. Mau desain 3D yang rumit atau tampilan minimalis yang elegan, Fadhilah selalu pastikan hasilnya terasa personal, rapi, dan bikin kamu nggak mau berhenti lihat kuku sendiri!",
+			"Fadhilah memiliki passion yang kuat di\
+			dunia nail art, khususnya desain 3D yang\
+			detail dan unik seperti motif polka dot,\
+			desain abstrak, hingga kreasi yang dibuat\
+			secara khusus. Dengan kreativitas dan\
+			ketelitian yang tinggi, Fadhilah siap\
+			mewujudkan setiap kuku impian menjadi\
+			nyata. Mulai dari desain 3D yang rumit dan\
+			artistik hingga tampilan yang minimalis\
+			yang elegan, setiap set kuku dikerjakan\
+			dengan penuh perhatian pada setiap detail.",
 		"team.amelia.name": "Amelia",
-		"team.amelia.role": "Senior Press On Specialist",
+		"team.amelia.role": "Senior Spesialis Kuku Press-on",
 		"team.amelia.bio":
-			"Amelia adalah jagoannya press-on nails — praktis, kece, dan cocok buat kamu yang mau tampil cantik tiap hari tanpa ribet! Dengan selera style yang oke dan semangat buat bikin kuku cantik bisa dinikmati semua orang, Amelia siap buatin set press-on custom yang tahan lama sekaligus aesthetic. Karena buat Amelia, kuku cantik itu hak semua orang — dan dia di sini buat pastiin kamu pulang dengan penuh percaya diri dan senyum yang nggak bisa disembunyiin.",
+			"Amelia mengkhususkan diri dalam\
+			pembuatan press-on nails yang praktis,\
+			stylish, dan cocok digunakan sehari-hari.\
+			Setiap set dibuat secara custom agar\
+			nyaman dipakai, tahan lama, dan tetap\
+			terlihat elegan. Amelia percaya bahwa kuku\
+			yang cantik seharusnya, mudah dinikmati\
+			dan terjangkau bagi semua orang.",
 
 		// Booking
-		"booking.title": "Siap Glowup? Yuk booking sekarang!",
+		"booking.title": "Siap untuk tampil lebih cantik?\
+		Yuk booking sekarang!",
 		"booking.description":
-			"Isi form di bawah dan tim kami akan segera menghubungi kamu untuk konfirmasi jadwal. Gampang, cepat, dan tanpa ribet!",
+			"Isi formulir yang ada dibawah dan tim kami\
+			akan segera menghubungi kamu. Cepat,\
+			mudah, dan gak ribet.",
 		"booking.name": "Nama",
-		"booking.phone": "Telepon",
+		"booking.phone": "Nomor WhatsApp",
 		"booking.email": "Email",
-		"booking.service": "Nail Art/Press-on Nails",
+		"booking.service": "Layanan yang dipilih",
 		"booking.message": "Catatan Tambahan",
 		"booking.namePlaceholder": "Nama Kamu",
 		"booking.phonePlaceholder": "Nomor telepon Kamu",
 		"booking.emailPlaceholder": "Email Kamu",
 		"booking.servicePlaceholder": "Mau treatment apa nih?",
 		"booking.messagePlaceholder": "Permintaan khusus atau pertanyaan?",
-		"booking.submit": "Kirim Permintaan",
-		"booking.visitUs": "Kunjungi Kami",
+		"booking.submit": "Ajukan booking",
+		"booking.visitUs": "Datangi Kami",
 		"booking.location": "Lokasi",
 		"booking.locationAddress":
 			"Bumi Nena, Jalan Gegerkalong Hilir No. 201\nBandung, Indonesia",
-		"booking.hours": "Jam Buka",
+		"booking.hours": "Jam Operasional",
 		"booking.hoursDetails":
 			"Senin - Jumat: 11:00 AM - 10:00 PM\nSabtu - Minggu: 10:00 AM - 09.00 PM",
 
 		// Footer
 		"footer.tagline":
-			"Tempat kamu menemukan kuku cantik yang bikin percaya diri setiap hari. Dari perawatan simpel sampai nail art detail, semuanya dibuat dengan sentuhan profesional dan penuh gaya.",
+			"Pilihan andalanmu untuk mendapatkan\
+			kuku cantik yang bikin kamu lebih percaya\
+			diri setiap hari. Mulai dari perawatan kuku\
+			dasar hingga nail art dengan detail yang\
+			memukau, setiap layanan dikerjakan secara\
+			profesional dengan sentuhan penuh gaya.",
 		"footer.servicesTitle": "Layanan",
 		"footer.quickLinks": "Tautan Cepat",
 		"footer.followUs": "Ikuti Kami",
@@ -391,7 +501,7 @@ const translations = {
 		"blog.viewAll": "Lihat Semua Artikel",
 
 		// Reviews
-		"reviews.title": "Apa Kata Pelanggan Kami",
+		"reviews.title": "Ulasan Pelanggan",
 		"reviews.subtitle":
 			"Pengalaman nyata dari pelanggan kami — bagikan pengalaman kamu juga!",
 	},
