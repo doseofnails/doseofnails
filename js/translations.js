@@ -154,9 +154,9 @@ const translations = {
 		"gallery.caption.advanced3": "High-detail nail art at its finest",
 
 		// Team
-		"team.title": "Meet Our Team",
+		"team.title": "Our Team",
 		"team.description":
-			"",
+			"Meet our team",
 		"team.fadhilah.name": "Fadhilah",
 		"team.fadhilah.role": "Senior Nail Artist",
 		"team.fadhilah.bio":
