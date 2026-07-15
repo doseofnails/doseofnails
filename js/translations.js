@@ -111,32 +111,28 @@ const translations = {
 			"A basic nail treatment that instantly leaves\
 			your hands looking clean, neat, and\
 			refreshed. The service includes shaping,\
-			cuticle care, and a polished finish.\
-			Starts from IDR 35,000",
-		"serviceProduct.services.manicure.price": "Only For Rp. 35.000",
+			cuticle care, and a polished finish.",
+		"serviceProduct.services.manicure.price": "Starts from IDR 35,000",
 		"serviceProduct.services.gelArt.title": "Gel Polish",
 		"serviceProduct.services.gelArt.description":
 			"Express your unique style with long-lasting\
 			gel polish. From simple colours to detailed\
-			nail art, every design is fully customizable.\
-			Start from IDR 70,000",
-		"serviceProduct.services.gelArt.price": "Start at Rp. 70.000",
+			nail art, every design is fully customizable.",
+		"serviceProduct.services.gelArt.price": "Start from IDR 70,000",
 		"serviceProduct.services.3dDesign.title": "Soft Gel Tip Extension",
 		"serviceProduct.services.3dDesign.description":
 			"Want longer nails with a flawless shape?\
 			Soft gel tips are perfect for achieving a\
-			natural yet elegant appearance.\
-			Start from IDR 120,000",
-		"serviceProduct.services.3dDesign.price": "Starts at Rp. 120.000",
+			natural yet elegant appearance.",
+		"serviceProduct.services.3dDesign.price": "Start from IDR 120,000",
 		"serviceProduct.products.title": "Our Products",
 		"serviceProduct.products.pressOn.title": "Press-on Nails",
 		"serviceProduct.products.pressOn.description":
 			"Beautiful nails without the hassle! Simply\
 			apply them for a salon-inspired look in\
 			minutes. Easy to use at home and perfect\
-			for any occasion.\
-			Start from IDR. 60,000",
-		"serviceProduct.products.pressOn.price": "Starts at Rp. 60.000",
+			for any occasion.",
+		"serviceProduct.products.pressOn.price": "Start from IDR. 60,000",
 
 		// Gallery
 		"gallery.title": "Our Gallery",
