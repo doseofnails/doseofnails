@@ -1,7 +1,7 @@
 // Language switcher functionality
 let currentLanguage = "en";
 
-function t(key) {
+function translateKey(key) {
 	return translations[currentLanguage][key] || key;
 }
 
@@ -10,7 +10,7 @@ function updateContent() {
 	document.querySelectorAll("[data-i18n]").forEach((element) => {
 		if (element.closest("#cusdis_thread")) return; // ← add this
 		const key = element.getAttribute("data-i18n");
-		const translation = t(key);
+		const translation =translateKey(key);
 
 		if (element.tagName === "INPUT" || element.tagName === "TEXTAREA") {
 			element.placeholder = translation;
