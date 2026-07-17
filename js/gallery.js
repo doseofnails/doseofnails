@@ -82,7 +82,7 @@ function renderGallery() {
     <div class="relative overflow-hidden rounded-xl group aspect-square bg-white shadow-md hover:shadow-xl transition-shadow">
       <img
         src="${image.url}"
-        alt="${t(image.captionKey)}"
+        alt="${translateKey(image.captionKey)}"
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
         loading="lazy"
       />
