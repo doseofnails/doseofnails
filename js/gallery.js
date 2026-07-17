@@ -89,7 +89,7 @@ function renderGallery() {
       <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
         <div class="absolute bottom-0 left-0 right-0 p-6">
           <p class="text-white text-lg italic leading-relaxed" data-i18n="${image.captionKey}">
-            ${t(image.captionKey)}
+            ${translateKey(image.captionKey)}
           </p>
         </div>
       </div>
