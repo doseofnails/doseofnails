@@ -17,7 +17,7 @@ const translations = {
 			elegant designs to fun and creative nail art, \
 			Dose of Nails is the perfect choice to refresh, \
 			and leave with nails you’ll love.",
-		"hero.bookAppointment": "Book an Appointment",
+		"hero.bookAppointment": "Book Now",
 		"hero.viewServices": "Explore our Services",
 
 		// Introduction
@@ -254,7 +254,7 @@ const translations = {
 			Dose of Nails adalah pilihan yang tepat buat\
 			kamu yang ingin tampil fresh dan pulang\
 			dengan kuku yang bikin kamu jatuh cinta.",
-		"hero.bookAppointment": "Jadwalkan kunjunganmu",
+		"hero.bookAppointment": "Buat Pertemuan",
 		"hero.viewServices": "Lihat Layanan Kami",
 
 		// Introduction
