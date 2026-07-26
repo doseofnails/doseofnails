@@ -10,7 +10,7 @@ const translations = {
 
 		// Hero
 		"hero.title":
-			"Ready to shine a little brighter? Let's get started!",
+			"Ready to shine brighter? Let's get started!",
 		"hero.description":
 			"Looking for a little self-care? We’re here to \
 			make your nail goals come true. From simple and \
@@ -278,7 +278,6 @@ const translations = {
 			trendi dan mencuri perhatian, kami\
 			menciptakan nail art membuatmu tampil\
 			makin percaya diri dan bebas\
-			mengekspresikan diri dan bebas\
 			mengekspresikan dirimu.",
 		"highlights.nailArt.button": "Cek Hasil Nail Art",
 		"highlights.pressOn.title": "Press-On Nails",
