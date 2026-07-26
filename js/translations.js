@@ -2,7 +2,7 @@
 const translations = {
 	en: {
 		// Header
-		"nav.aboutUs": "About us",
+		"nav.aboutUs": "About Us",
 		"nav.serviceProduct": "Service & Product",
 		"nav.gallery": "Gallery",
 		"nav.contact": "Contact",
@@ -15,7 +15,7 @@ const translations = {
 			"Looking for a little self-care? We’re here to \
 			make your nail goals come true. From simple and \
 			elegant designs to fun and creative nail art, \
-			Dose of Nails is the perfect choice to refresh, \
+			Dose of Nails is the perfect choice to refresh \
 			and leave with nails you’ll love.",
 		"hero.bookAppointment": "Book Now",
 		"hero.viewServices": "Explore our Services",
@@ -23,9 +23,9 @@ const translations = {
 		// Introduction
 		"intro.heading": "Welcome to Dose of Nails",
 		"intro.description":
-			"We’re more than just a nail studio, We’re \
-			your choice for you taking a break, treating \
-			yourself, and expressing your style. \
+			"We’re more than just a nail studio. We’re \
+			your choice when you want to take a break, \
+			treat yourself, and express your style. \
 			Whether you’re here for a simple manicure \
 			or detailed nail art, we’re excited to help \
 			you create a look that makes you feel \
@@ -38,14 +38,14 @@ const translations = {
 		"highlights.nailArt.description":
 			"Your nails, your style. From soft and classy looks to trendy and eye-catching designs, we create nail art that helps you feel confident and express yourself in your own style.",
 		"highlights.nailArt.button": "Explore Nail Art",
-		"highlights.pressOn.title": "Press-on Nails",
+		"highlights.pressOn.title": "Press-On Nails",
 		"highlights.pressOn.description":
 			"Who doesn't love beautiful nails? Our \
-			handmade press-on nails give you a salon\
-			inspired look in just minutes. They are\
-			perfect for busy days, special occasions, or\
-			anytime you want a quick glow-up. Each\
-			press-on nail set includes a cuticle pusher,\
+			handmade press-on nails give you a salon-\
+			inspired look in just minutes. They are \
+			perfect for busy days, special occasions, or \
+			anytime you want a quick glow-up. Each \
+			press-on nail set includes a cuticle pusher, \
 			nail buffer, alcohol swab, and glue gel.",
 		"highlights.pressOn.button": "Shop Press Ons",
 
@@ -86,19 +86,19 @@ const translations = {
 			sanitation with every treatment.",
 		"about.values.professional": "Professional",
 		"about.values.professionalDesc":
-			"Our team is dedicated to delivering\
-			exceptional service with precision,\
-			comfortable experience, and attention to\
+			"Our team is dedicated to delivering \
+			exceptional service with precision, a \
+			comfortable experience, and attention to \
 			detail.",
 		"about.mission.title": "Our Mission",
 		"about.mission.statement":
-			"At Dose of Nails, our mission is to make\
-			self-care enjoyable, accessible, and\
-			personalized for everyone. We’re dedicated\
-			to creating beautiful nails that reflect your\
-			unique style while providing, convenient,\
-			home service delivered by friendly nail\
-			artists, so you can always feel comfortable\
+			"At Dose of Nails, our mission is to make \
+			self-care enjoyable, accessible, and \
+			personalized for everyone. We’re dedicated \
+			to creating beautiful nails that reflect your \
+			unique style while providing convenient \
+			home service delivered by friendly nail \
+			artists, so you can always feel comfortable \
 			being yourself.",
 
 		// Services & Products
@@ -118,21 +118,21 @@ const translations = {
 			"Express your unique style with long-lasting\
 			gel polish. From simple colours to detailed\
 			nail art, every design is fully customizable.",
-		"serviceProduct.services.gelArt.price": "Start from IDR 70,000",
+		"serviceProduct.services.gelArt.price": "Starts from IDR 70,000",
 		"serviceProduct.services.3dDesign.title": "Soft Gel Tip Extension",
 		"serviceProduct.services.3dDesign.description":
 			"Want longer nails with a flawless shape?\
 			Soft gel tips are perfect for achieving a\
 			natural yet elegant appearance.",
-		"serviceProduct.services.3dDesign.price": "Start from IDR 120,000",
+		"serviceProduct.services.3dDesign.price": "Starts from IDR 120,000",
 		"serviceProduct.products.title": "Our Products",
-		"serviceProduct.products.pressOn.title": "Press-on Nails",
+		"serviceProduct.products.pressOn.title": "Press-On Nails",
 		"serviceProduct.products.pressOn.description":
 			"Beautiful nails without the hassle! Simply\
 			apply them for a salon-inspired look in\
 			minutes. Easy to use at home and perfect\
 			for any occasion.",
-		"serviceProduct.products.pressOn.price": "Start from IDR. 60,000",
+		"serviceProduct.products.pressOn.price": "Starts from IDR 60,000",
 
 		// Gallery
 		"gallery.title": "Our Gallery",
@@ -183,9 +183,9 @@ const translations = {
 		// Booking
 		"booking.title": "Ready for a glow-up? Book now!",
 		"booking.description":
-			"Fill out the form below and our team will\
-			get in touch with you shortly to confirm\
-			your appointment. It is Quick, easy, and\
+			"Fill out the form below and our team will \
+			get in touch with you shortly to confirm \
+			your appointment. It is quick, easy, and \
 			hassle-free.",
 		"booking.name": "Name",
 		"booking.phone": "Phone Number",
@@ -201,8 +201,8 @@ const translations = {
 		"booking.visitUs": "Visit Us",
 		"booking.location": "Location",
 		"booking.locationAddress":
-			"Bumi Nena, Gegerkalong Hilir Streets\
-			Number 201, Bandung, Indonesia.",
+			"Bumi Nena, Gegerkalong Hilir Street, No. 201, \
+			Bandung, Indonesia.",
 		"booking.hours": "Hours",
 		"booking.hoursDetails":
 			"Monday - Friday: 11:00 AM - 10:00 PM\nSaturday - Sunday: 10:00 AM - 09:00 PM",
@@ -247,12 +247,12 @@ const translations = {
 		// Hero
 		"hero.title": "Siap tampil makin bersinar? Yuk, mulai!",
 		"hero.description":
-			"Butuh waktu sejenak buat merawat diri?\
-			Kami hadir untuk mewujudkan kuku\
-			impianmu. Dari desain yang simpel dan\
-			elegan, hingga nail art yang seru dan kreatif.\
-			Dose of Nails adalah pilihan yang tepat buat\
-			kamu yang ingin tampil fresh dan pulang\
+			"Butuh waktu sejenak buat merawat diri? \
+			Kami hadir untuk mewujudkan kuku \
+			impianmu, dari desain yang simpel dan \
+			elegan hingga nail art yang seru dan kreatif. \
+			Dose of Nails adalah pilihan yang tepat buat \
+			kamu yang ingin tampil fresh dan pulang \
 			dengan kuku yang bikin kamu jatuh cinta.",
 		"hero.bookAppointment": "Buat Pertemuan",
 		"hero.viewServices": "Lihat Layanan Kami",
@@ -260,15 +260,14 @@ const translations = {
 		// Introduction
 		"intro.heading": "Selamat Datang di Dose of Nails",
 		"intro.description":
-			"Kami bukan sekedar nail studio. Kami\
-			adalah pilihan yang tepat buat kamu yang\
-			ingin melepas penat memanjakan diri, dan\
-			mengekspresikan gayamu. Mau manikur\
-			simpel atau nail art yang detail, kami\
-			dengan senang hati siap membantu kamu\
-			tampil percaya diri dan bahagia. Santai saja,\
-			rileks, biar kami yang mengurus sisanya.\
-			",
+			"Kami bukan sekedar nail studio. Kami \
+			adalah pilihan yang tepat buat kamu yang \
+			ingin melepas penat, memanjakan diri, dan \
+			mengekspresikan gayamu. Mau manikur \
+			simpel atau nail art yang detail, kami \
+			dengan senang hati siap membantu kamu \
+			tampil percaya diri dan bahagia. Santai saja, \
+			rileks, biar kami yang mengurus sisanya.",
 
 		// Highlights
 		"highlights.title": "Layanan kami",
@@ -300,26 +299,26 @@ const translations = {
 		"about.title": "Tentang Kami",
 		"about.background.title": "Kisah Kami",
 		"about.background.description":
-			"Dose of Nails berawal dari kecintaan\
-			sederhana terhadap kreativitas dan\
-			ekspresi diri. Berawal dari sebuah hobi,\
-			kami tumbuh menjadi sebuah brand yang\
-			mengutamakan kenyamanan, perhatian\
-			pada setiap detail, dan gaya yang personal.\
-			Kami percaya setiap orang berhak\
-			mendapatkan sedikit tambahan\
-			kepercayaan diri dan kebahagiaan dalam\
-			kesehariannya karena kuku yang indah\
-			dapat mencerahkan hari dan membantu\
-			kamu mengekspresikan dirimu. Kini, Dose\
-			of Nails bukan sekadar nail studio,\
-			melainkan ruang yang hangat di mana\
-			setiap klien diperlakukan seperti teman.\
-			Bagi kamu yang mempersiapkan diri untuk\
-			acara spesial maupun sekadar meluangkan\
-			waktu untuk memanjakan diri, kami\
-			berkomitmen untuk membuat setiap\
-			kunjungan terasa nyaman, menyenangkan,\
+			"Dose of Nails berawal dari kecintaan \
+			sederhana terhadap kreativitas dan \
+			ekspresi diri. Berawal dari sebuah hobi, \
+			kami tumbuh menjadi sebuah brand yang \
+			mengutamakan kenyamanan, perhatian \
+			pada setiap detail, dan gaya yang personal. \
+			Kami percaya setiap orang berhak \
+			mendapatkan sedikit tambahan \
+			kepercayaan diri dan kebahagiaan dalam \
+			kesehariannya karena kuku yang indah \
+			dapat mencerahkan hari dan membantunya \
+			mengekspresikan dirinya. Kini, Dose \
+			of Nails bukan sekadar nail studio, \
+			melainkan ruang yang hangat di mana \
+			setiap klien diperlakukan seperti teman. \
+			Bagi kamu yang mempersiapkan diri untuk \
+			acara spesial maupun sekadar meluangkan \
+			waktu untuk memanjakan diri, kami \
+			berkomitmen untuk membuat setiap \
+			kunjungan terasa nyaman, menyenangkan, \
 			dan berkesan.",
 		"about.values.title": "Kenapa kamu bakal menyukai Dose of Nails!",
 		"about.values.homeService": "Layanan di rumah",
@@ -330,8 +329,8 @@ const translations = {
 			nyaman, langsung dari rumahmu.",
 		"about.values.creativity": "Kreativitas",
 		"about.values.creativityDesc":
-			"Setiap kuku adalah kanvas. Kami siap untuk\
-			mewujudkan ide nail art-mu menjadi design\
+			"Setiap kuku adalah kanvas. Kami siap untuk \
+			mewujudkan ide nail art-mu menjadi desain \
 			yang unik dan mencuri perhatian.",
 		"about.values.hygiene": "Higienis",
 		"about.values.hygieneDesc":
@@ -341,9 +340,9 @@ const translations = {
 			setiap perawatan.",
 		"about.values.professional": "Profesional",
 		"about.values.professionalDesc":
-			"Tim kami berdedikasi untuk memberikan\
-			layanan berkualitas dengan ketelitian,\
-			kenyamanan, pengalaman dan perhatian\
+			"Tim kami berdedikasi untuk memberikan \
+			layanan berkualitas dengan ketelitian, \
+			pengalaman yang nyaman, dan perhatian \
 			penuh terhadap detail.",
 		"about.mission.title": "Misi Kami",
 		"about.mission.statement":
@@ -370,7 +369,7 @@ const translations = {
 			terawat. Perawatan ini termasuk\
 			pembentukan kuku, perawatan kutikula,\
 			dan hasil akhir yang cantik.",
-		"serviceProduct.services.manicure.price": "Mulai dari IDR. 35,000",
+		"serviceProduct.services.manicure.price": "Mulai dari Rp35.000",
 		"serviceProduct.services.gelArt.title": "Gel Polish",
 		"serviceProduct.services.gelArt.description":
 			"Ekspresikan gaya unik kamu dengan gel\
@@ -385,7 +384,7 @@ const translations = {
 			yang sempurna? Soft gel tips adalah pilihan\
 			yang tepat untuk tampilan kuku yang\
 			natural namun tetap elegan.",
-		"serviceProduct.services.3dDesign.price": "Mulai dari IDR. 120,000",
+		"serviceProduct.services.3dDesign.price": "Mulai dari Rp120.000",
 		"serviceProduct.products.title": "Produk Kami",
 		"serviceProduct.products.pressOn.title": "Kuku Press-on",
 		"serviceProduct.products.pressOn.description":
@@ -394,7 +393,7 @@ const translations = {
 			mendapatkan tampilan kuku layaknya baru\
 			selesai dari salon. Mudah digunakan di\
 			rumah dan siap dipakai kapan saja.",
-		"serviceProduct.products.pressOn.price": "Mulai dari IDR. 60,000",
+		"serviceProduct.products.pressOn.price": "Mulai dari Rp60.000",
 
 		// Gallery
 		"gallery.title": "Galeri Kami",
@@ -422,35 +421,35 @@ const translations = {
 		"team.fadhilah.name": "Fadhilah",
 		"team.fadhilah.role": "Senior Artis Kuku",
 		"team.fadhilah.bio":
-			"Fadhilah memiliki passion yang kuat di\
-			dunia nail art, khususnya desain 3D yang\
-			detail dan unik seperti motif polka dot,\
-			desain abstrak, hingga kreasi yang dibuat\
-			secara khusus. Dengan kreativitas dan\
-			ketelitian yang tinggi, Fadhilah siap\
-			mewujudkan setiap kuku impian menjadi\
-			nyata. Mulai dari desain 3D yang rumit dan\
-			artistik hingga tampilan yang minimalis\
-			yang elegan, setiap set kuku dikerjakan\
+			"Fadhilah memiliki passion yang kuat di \
+			dunia nail art, khususnya desain 3D yang \
+			detail dan unik seperti motif polka dot, \
+			desain abstrak, hingga kreasi yang dibuat \
+			secara khusus. Dengan kreativitas dan \
+			ketelitian yang tinggi, Fadhilah siap \
+			mewujudkan setiap kuku impian menjadi \
+			nyata. Mulai dari desain 3D yang rumit dan \
+			artistik hingga tampilan yang minimalis \
+			dan elegan, setiap set kuku dikerjakan \
 			dengan penuh perhatian pada setiap detail.",
 		"team.amelia.name": "Amelia",
 		"team.amelia.role": "Senior Spesialis Kuku Press-on",
 		"team.amelia.bio":
-			"Amelia mengkhususkan diri dalam\
-			pembuatan press-on nails yang praktis,\
-			stylish, dan cocok digunakan sehari-hari.\
-			Setiap set dibuat secara custom agar\
-			nyaman dipakai, tahan lama, dan tetap\
-			terlihat elegan. Amelia percaya bahwa kuku\
-			yang cantik seharusnya, mudah dinikmati\
+			"Amelia mengkhususkan diri dalam \
+			pembuatan press-on nails yang praktis, \
+			stylish, dan cocok digunakan sehari-hari. \
+			Setiap set dibuat secara custom agar \
+			nyaman dipakai, tahan lama, dan tetap \
+			terlihat elegan. Amelia percaya bahwa kuku \
+			yang cantik seharusnya mudah dinikmati \
 			dan terjangkau bagi semua orang.",
 
 		// Booking
 		"booking.title": "Siap untuk tampil lebih cantik?\
 		Yuk booking sekarang!",
 		"booking.description":
-			"Isi formulir yang ada dibawah dan tim kami\
-			akan segera menghubungi kamu. Cepat,\
+			"Isi formulir yang ada di bawah dan tim kami \
+			akan segera menghubungi kamu. Cepat, \
 			mudah, dan gak ribet.",
 		"booking.name": "Nama",
 		"booking.phone": "Nomor WhatsApp",
@@ -482,7 +481,7 @@ const translations = {
 		"footer.servicesTitle": "Layanan",
 		"footer.quickLinks": "Tautan Cepat",
 		"footer.followUs": "Ikuti Kami",
-		"footer.copyright": "© 2025 Dose of Nails. Hak cipta dilindungi.",
+		"footer.copyright": "© 2025 Dose of Nails. Semua hak dilindungi undang-undang.",
 
 		// Blog / Articles
 		"nav.articles": "Artikel",
